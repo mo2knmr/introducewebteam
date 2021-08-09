@@ -1,0 +1,79 @@
+
+
+
+
+body {
+    margin:0px;
+    padding:0px;
+}
+
+header {
+    background-color:#deeefa;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-size: 1px;
+    font-family:'Optima';
+}
+
+.header-title {
+    color:white;
+    font-size: 15px;
+}
+
+.header-photo img {
+width: 100%;
+height: auto;
+}
+
+.profile {
+    font-size: 4px;
+    text-align: center;
+    font-family:'Optima';
+}
+.main-song {
+    background-color: #deeefa;
+    font-size:12px;
+    font-family: 'Optima';
+    text-align: center;
+    padding: 10px;
+}
+
+.song-photo {
+    width: 60%;
+    height: auto;
+    margin:auto;
+}
+.main-photo img {
+    width: 100%;
+    height:auto;
+}
+
+.Insta-photo {
+    width: 40px;
+    height:auto;
+    
+
+}
+.insta-URL {
+    font-size: 3px;
+    color: cornflowerblue;
+    font-family: 'Optima';
+    
+}
+ 
+.container {
+    display: flex;
+    justify-content: center;
+    background-color:#deeefa;
+    padding: 20px;
+}
+
+.footer {
+    background-color:cornflowerblue ;
+    text-align: center;
+    color: white;
+    padding: 10px;
+
+}
