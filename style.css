@@ -13,7 +13,7 @@ header {
 
 h1 {
     color: cornflowerblue;
-    font-size: 1px;
+    font-size: 9px;
     font-family:'Optima';
 }
 
@@ -28,7 +28,7 @@ height: auto;
 }
 
 .profile {
-    font-size: 4px;
+    font-size: 10px;
     text-align: center;
     font-family:'Optima';
 }
@@ -57,7 +57,7 @@ height: auto;
 
 }
 .insta-URL {
-    font-size: 3px;
+    font-size: 9px;
     color: cornflowerblue;
     font-family: 'Optima';
     
